@@ -1,0 +1,56 @@
+[
+ 
+  {
+    "name": "Sample-Superstore- Dataset",
+    "desc": " this data set to analyze how a store work under different situations and how they tackle profit or loss",
+    "image": "Sample",
+    
+    "links": {
+     
+      "code": "https://github.com/Adityapandeya/Sample-Superstore-dataset.git"
+    }
+  },
+  {
+    "name": "Food Order System",
+    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "image": "Bill",
+   
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+  {
+    "name": "Hotel Management System",
+    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
+    "image": "Hotel",
+    
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Adityapandeya/Hotel-Management-Project.git"
+    }
+  },
+  
+ 
+ 
+  {
+    "name": "Link Book",
+    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
+    "image": "LinkBook",
+    
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+ 
+  
+ 
+  
+ 
+  
+  
+  
+  
+]
